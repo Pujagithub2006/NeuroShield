@@ -1,0 +1,22 @@
+[
+  {"timestamp":"2026-02-17T07:50:00Z","user_id":"emp_1001","database_name":"customer_records","query_type":"SELECT","table_accessed":"accounts","record_count":40,"action":"read"},
+  {"timestamp":"2026-02-17T08:00:00Z","user_id":"admin_01","database_name":"customer_records","query_type":"SELECT","table_accessed":"transactions","record_count":65,"action":"read"},
+  {"timestamp":"2026-02-17T08:05:00Z","user_id":"admin_01","database_name":"customer_records","query_type":"UPDATE","table_accessed":"accounts","record_count":4,"action":"modify"},
+  {"timestamp":"2026-02-17T08:20:00Z","user_id":"admin_01","database_name":"customer_records","query_type":"SELECT","table_accessed":"personal_info","record_count":1500,"action":"bulk_export_attempt"},
+  {"timestamp":"2026-02-17T08:21:00Z","user_id":"admin_01","database_name":"customer_records","query_type":"SELECT","table_accessed":"personal_info","record_count":2200,"action":"bulk_export_attempt"},
+  {"timestamp":"2026-02-17T08:22:00Z","user_id":"admin_01","database_name":"customer_records","query_type":"SELECT","table_accessed":"personal_info","record_count":3100,"action":"bulk_export_attempt"},
+  {"timestamp":"2026-02-17T08:23:00Z","user_id":"admin_01","database_name":"customer_records","query_type":"SELECT","table_accessed":"personal_info","record_count":4200,"action":"bulk_export_attempt"},
+  {"timestamp":"2026-02-17T08:24:00Z","user_id":"admin_01","database_name":"customer_records","query_type":"SELECT","table_accessed":"personal_info","record_count":5400,"action":"bulk_export_attempt"},
+  {"timestamp":"2026-02-17T08:25:00Z","user_id":"admin_01","database_name":"customer_records","query_type":"SELECT","table_accessed":"personal_info","record_count":6800,"action":"bulk_export_attempt"},
+  {"timestamp":"2026-02-17T08:26:00Z","user_id":"admin_01","database_name":"customer_records","query_type":"SELECT","table_accessed":"personal_info","record_count":8200,"action":"bulk_export_attempt"},
+  {"timestamp":"2026-02-17T08:27:00Z","user_id":"admin_01","database_name":"customer_records","query_type":"SELECT","table_accessed":"personal_info","record_count":9600,"action":"bulk_export_attempt"},
+  {"timestamp":"2026-02-17T08:28:00Z","user_id":"admin_01","database_name":"customer_records","query_type":"SELECT","table_accessed":"personal_info","record_count":11000,"action":"bulk_export_attempt"},
+  {"timestamp":"2026-02-17T08:29:00Z","user_id":"admin_01","database_name":"customer_records","query_type":"SELECT","table_accessed":"personal_info","record_count":12500,"action":"bulk_export_attempt"},
+  {"timestamp":"2026-02-17T08:30:00Z","user_id":"admin_01","database_name":"customer_records","query_type":"SELECT","table_accessed":"personal_info","record_count":14500,"action":"bulk_export_attempt"},
+  {"timestamp":"2026-02-17T08:31:00Z","user_id":"admin_01","database_name":"customer_records","query_type":"SELECT","table_accessed":"personal_info","record_count":16500,"action":"bulk_export_attempt"},
+  {"timestamp":"2026-02-17T08:32:00Z","user_id":"admin_01","database_name":"customer_records","query_type":"SELECT","table_accessed":"personal_info","record_count":18500,"action":"bulk_export_attempt"},
+  {"timestamp":"2026-02-17T08:33:00Z","user_id":"admin_01","database_name":"customer_records","query_type":"SELECT","table_accessed":"personal_info","record_count":20500,"action":"bulk_export_attempt"},
+  {"timestamp":"2026-02-17T08:34:00Z","user_id":"admin_01","database_name":"customer_records","query_type":"SELECT","table_accessed":"personal_info","record_count":22500,"action":"bulk_export_attempt"},
+  {"timestamp":"2026-02-17T08:35:00Z","user_id":"admin_01","database_name":"customer_records","query_type":"SELECT","table_accessed":"personal_info","record_count":24500,"action":"bulk_export_attempt"},
+  {"timestamp":"2026-02-17T08:36:00Z","user_id":"admin_01","database_name":"customer_records","query_type":"SELECT","table_accessed":"personal_info","record_count":26500,"action":"bulk_export_attempt"}
+]
