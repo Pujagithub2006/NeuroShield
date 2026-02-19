@@ -15,13 +15,13 @@ NeuroShield is an AI-driven autonomous cyber incident response system that
 3) Correlates multi-system threats, and
 4) Generates structured response playbooks while intelligently triggering existing banking response mechanisms– all fully offline and secure.
 
-It does not replace banking systems.
-Unlike traditional SOC tools, NeuroShield prioritizes high-fidelity threats using behavioral context + graph correlation.
+### It does not replace banking systems.
+### Unlike traditional SOC tools, NeuroShield prioritizes high-fidelity threats using behavioral context + graph correlation.
 ---
 
 ## Sample Logs
 
-For now, this repository includes structured sample enterprise logs:
+For now, this repository includes structured sample enterprise logs in the logs folder at root:
 
 - authentication_logs.json  
 - network_logs.json  
@@ -50,7 +50,7 @@ The demo displays the UI Mockups of the dashboard views, attack chain visualizat
 
 Devnauts – VIT Pune
 
-Puja Nikam
-Yash Kalaskar
-Atharv Dubal
-Shloka Pampattiwar
+- Puja Nikam
+- Yash Kalaskar
+- Atharv Dubal
+- Shloka Pampattiwar
